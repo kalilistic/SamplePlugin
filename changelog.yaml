@@ -20,7 +20,7 @@ stable:
         - "Fixed issue."
 
 testing:
-  - version: "1.2.0.0"
+  - version: "1.4.0.0"
     date: "2024-05-01"
     sections:
       headline:
