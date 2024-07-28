@@ -3,37 +3,12 @@ changelog_version: "1.0"
 stable:
   - version: "2.0.0.0"
     date: "2024-01-01"
-    sections:
-      headline:
-        - "Special headline!"
-      added:
+    is_critical: false
+    headline: "Hello world"
+    added:
         - "Added new feature."
-      changed:
-        - "Changed existing feature."
-      removed:
-        - "Removed feature."
-      technical:
-        - "Technical changes."
-      deprecated:
-        - "Deprecated feature."
-      fixed:
-        - "Fixed issue."
-
-testing:
-  - version: "1.4.0.0"
-    date: "2024-05-01"
-    sections:
-      headline:
-        - "Special headline!"
-      added:
-        - "Added new feature."
-      changed:
-        - "Changed existing feature."
-      removed:
-        - "Removed feature."
-      technical:
-        - "Technical changes."
-      deprecated:
-        - "Deprecated feature."
-      fixed:
-        - "Fixed issue."
+    changed:
+    deprecated:
+    fixed:
+    removed:
+    technical:
