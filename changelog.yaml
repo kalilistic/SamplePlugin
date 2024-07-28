@@ -1,10 +1,10 @@
 changelog_version: "1.0"
 
 stable:
-  - version: "2.0.1.0"
+  - version: "2.0.2.0"
     date: "2024-01-01"
     is_critical: false
-    headline: "Hello world"
+    headline:
     added:
         - "Added new feature."
     changed:
